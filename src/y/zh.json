@@ -1,0 +1,17 @@
+{
+  "lang": {
+    "type": "语言",
+    "name": "中文"
+  },
+  "login": {
+    "aleady": "您已经登录！",
+    "needLogin": "您需要先登录才可以访问！"
+  },
+  "system": {
+    "lang": {
+      "success": "切换语言成功",
+      "notFond": "未找到要切换的语言，清联系管理员",
+      "aleadyChange": "语言切换成功，请不要重复操作"
+    }
+  }
+}

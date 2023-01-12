@@ -1,0 +1,17 @@
+{
+  "lang": {
+    "type": "language",
+    "name": "English"
+  },
+  "login": {
+    "aleady": "You have logged in!",
+    "needLogin": "You need to log in first to access!"
+  },
+  "system": {
+    "lang": {
+      "success": "Change languages successfully",
+      "notFond": "Failed to find the language to switch, please contact the administrator",
+      "aleadyChange": "The language switch is successful. Please do not repeat the operation"
+    }
+  }
+}
